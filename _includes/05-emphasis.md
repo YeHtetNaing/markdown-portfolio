@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* *Anna*
+* __Jerax__
+* _nOtail_
+* **Topson**
+* __Ceeeeb__
+* _They **together play** in the __OG Dota__ team._
