@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* :smile:
+* :heart:
+* :angry:
+  * :heart::boy:
+  * :heart::girl:
+ 
