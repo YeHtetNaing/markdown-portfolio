@@ -1,6 +1,10 @@
-* :smile:
-* :heart:
-* :angry:
-  * :heart::boy:
-  * :heart::girl:
+ :smile:
+ 
+ :heart:
+ 
+ :angry:
+ 
+ :heart: :boy:
+ 
+ :heart: :girl:
  
