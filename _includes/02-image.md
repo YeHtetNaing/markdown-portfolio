@@ -1,1 +1,1 @@
-![Image of Sunflower]{https://drive.google.com/uc?export=view&id=WhiteSunflower}
+![Image of Sunflower]{https://drive.google.com/drive/u/0/my-drive}
